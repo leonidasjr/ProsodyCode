@@ -1,7 +1,7 @@
 Script for resynthesis of sound and pitch. The program transform speech audios into beat 
-and melodic objects for pronunciation teaching purposes.
+and melodic objects for pronunciation teaching purposes as well as it automatically plots the fundamental frequency contours of both native and foreign language
 
-The program creates a TextGrid file with the words and the utterance automatically segmented based on the reference audio and txt files.
+The program also creates a TextGrid file with the words and the utterance automatically segmented based on the reference audio to align withe the melodic contours
 
 # User's manual preparation!
 
