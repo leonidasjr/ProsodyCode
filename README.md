@@ -5,9 +5,7 @@ The program creates a TextGrid file with the words and the utterance automatical
 
 # User's manual preparation!
 
-# WE STRONGLY RECOMMEND USING - AT MOST - TWO AUDIO FILES PER FOLDER for the sake of a finer comparison
-
-(see audio and txt files in this repository for tests)
+# WE STRONGLY RECOMMEND USING - AT MOST - TWO AUDIO FILES PER FOLDER for the sake of a finer comparison (see audio and txt files in this repository for tests)
 
 HOW TO CITE THIS SCRIPT
 
