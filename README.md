@@ -11,6 +11,6 @@ The program also creates a TextGrid file with the words and the utterance automa
 
 HOW TO CITE THIS SCRIPT
 
-SILVA JR., Leonidas. (2022) BeatMaker (version 1.0). Computer program for Praat.
+SILVA JR., Leonidas. (2023) BeatMaker (version 1.05). [Computer program for Praat].
 
-Available in: <https://github.com/leonidasjr/ResynthCode>.
+https://github.com/leonidasjr/ResynthCode.
