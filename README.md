@@ -13,4 +13,4 @@ HOW TO CITE THIS SCRIPT
 
 SILVA JR., Leonidas. (2023) BeatMaker (version 1.05). [Computer program for Praat].
 
-https://github.com/leonidasjr/ResynthCode.
+https://github.com/leonidasjr/ProsodyCode.
