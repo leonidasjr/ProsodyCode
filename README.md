@@ -13,7 +13,7 @@ HOW TO CITE PROGRAM
 
 SILVA JR., Leonidas. (2023) BeatMaker (version 1.05). [Computer program for Praat].
 
-https://github.com/leonidasjr/ProsodyCode.
+https://github.com/leonidasjr/ProsodyCode/blob/main/BeatMaker_v1.05.psc
 
 # 2. SyllableCraft
 
