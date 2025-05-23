@@ -14,13 +14,3 @@ HOW TO CITE PROGRAM
 Silva Jr., Leonidas. (2023) BeatMaker (version 1.05). [Computer program for Praat].
 
 https://github.com/leonidasjr/ProsodyCode/blob/main/BeatMaker_v1.05.psc
-
-# 2. SyllableCraft
-
-A code for syllable division based on phonetics
-
-HOW TO CITE PROGRAM
-
-Silva Jr., Leonidas. (2024) SyllableCraft (test version 0.01). [Computer program for Python].
-
-https://github.com/leonidasjr/ProsodyCode/blob/main/SyllableCraft.py
