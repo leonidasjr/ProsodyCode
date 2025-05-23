@@ -15,7 +15,7 @@ Silva Jr., Leonidas. (2023) BeatMaker (version 1.05). [Computer program for Praa
 
 https://github.com/leonidasjr/ProsodyCode/blob/main/BeatMaker_v1.05.psc
 
-# 2. SyllableCraft
+# 2. SyllCraft
 
 A code for syllable division based on phonetics
 
